@@ -16,10 +16,10 @@ def sort_students(student_list):
 if __name__ == "__main__":
    
     students = [
-        Student("Joe", "S-1", 1.9),
-        Student("Ragav", "S-2", 2.7),
-        Student("Dinesh", "S-3", 10.8),
-        Student("Raj", "S-4", 4.0),
+        Student("Akash", "101", 3.9),
+        Student("Dhanush", "102", 3.7),
+        Student("Gowtham Raj", "103", 3.8),
+        Student("Ram", "104", 4.0),
     ]
 
    
