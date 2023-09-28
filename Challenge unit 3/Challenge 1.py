@@ -6,8 +6,8 @@ def linear_search_product(products, target_product):
             indices.append(i)
     return indices
 
-products = ["Biriyani", "FriedRice", "Chappathi", "Parotta", "Biriyani", "FriedRice"]
-target_product = "Biriyani"
+products = ["Apple", "Banana", "Orange", "Apple", "Grapes", "Apple"]
+target_product = "Apple"
 
 result = linear_search_product(products, target_product)
 if result:
